@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+
+}
+
+.head {
+    color: #183b56;
+    font-size: 20px;
+}
+
+.para {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.text {
+    text-align: center;
+    margin: 10px;
+}
+
+.bg-cont {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card-cont {
+    display: flex;
+    flex-direction: ;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
